@@ -1,0 +1,7 @@
+baseURL = ""
+languageCode = "en-us"
+title = "Documentation"
+
+pygmentsStyle = "colorful"
+pygmentsUseClasses = false
+pygmentsCodeFences = true
